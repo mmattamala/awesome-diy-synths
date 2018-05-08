@@ -6,3 +6,6 @@ A lot of DIY analog synths and sound effects, such as the _Weird Sound Generator
 
 #### [String Arduino Synthesizer](http://bloghoskins.blogspot.cl/2016/11/diy-arduino-string-synth.html) by Blog Hoskins
 An Arduino-based polyphonic digital synth inspired by the ARP Solina.
+
+#### [Shruti-1](https://github.com/pichenettes/shruthi-1) by Olivier Gillet
+A digital/analog MIDI monophonic synthesizer
