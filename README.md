@@ -1,4 +1,4 @@
-# awesome-diy-synths
+# Awesome DIY synths
 A list of DIY synthesizers and sound-related stuff
 
 #### [Music from outer space](http://musicfromouterspace.com/) by Ray Wilson
