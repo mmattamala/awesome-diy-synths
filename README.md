@@ -9,3 +9,6 @@ An Arduino-based polyphonic digital synth inspired by the ARP Solina.
 
 #### [Shruti-1](https://github.com/pichenettes/shruthi-1) by Olivier Gillet
 A digital/analog MIDI monophonic synthesizer
+
+#### [Theremini](http://www.pisotones.com/Theremin/Theremini.htm) by FMK (Pisotones)
+A single antenna analog theremin. Website in Spanish, English instructions in [Instructables](http://www.instructables.com/id/Easy-theremin/).
