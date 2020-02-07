@@ -12,3 +12,6 @@ A digital/analog MIDI monophonic synthesizer
 
 #### [Theremini](http://www.pisotones.com/Theremin/Theremini.htm) by FMK (Pisotones)
 A single antenna analog theremin. Website in Spanish, English instructions in [Instructables](http://www.instructables.com/id/Easy-theremin/).
+
+#### [OpenTheremini](https://github.com/MrDham/OpenTheremin_V3_with_MIDI) by GaudiLabs
+An Arduino UNO-based theremin. It requires a shield (can be [build](https://github.com/GaudiLabs/OpenTheremin_V3_Shield) or [bought](https://gaudishop.ch/index.php/product/opentheremin-v3-shield-and-antenna-kit-bundle/))
