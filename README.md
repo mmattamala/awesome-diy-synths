@@ -15,3 +15,6 @@ A single antenna analog theremin. Website in Spanish, English instructions in [I
 
 #### [OpenTheremini](https://github.com/MrDham/OpenTheremin_V3_with_MIDI) by GaudiLabs
 An Arduino UNO-based theremin. It requires a shield (can be [build](https://github.com/GaudiLabs/OpenTheremin_V3_Shield) or [bought](https://gaudishop.ch/index.php/product/opentheremin-v3-shield-and-antenna-kit-bundle/))
+
+#### [tlc-strummer](https://github.com/Trasselfrisyr/tlc-strummer)
+Omnichord-like MIDI controller based on the Teensy LC. More information [here](https://hackaday.io/project/25111-t-chordstrum)
