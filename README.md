@@ -18,3 +18,4 @@ An Arduino UNO-based theremin. It requires a shield (can be [build](https://gith
 
 #### [tlc-strummer](https://github.com/Trasselfrisyr/tlc-strummer)
 Omnichord-like MIDI controller based on the Teensy LC. More information [here](https://hackaday.io/project/25111-t-chordstrum)
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
